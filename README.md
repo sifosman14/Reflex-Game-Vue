@@ -1,2 +1,19 @@
-# Reflex-Game-Vue
-3 components in Vue using click events and random timings, storing timer records inside an object and displaying to frontpage when certain data is set to true. lots of fun 
+# reflex-game
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
